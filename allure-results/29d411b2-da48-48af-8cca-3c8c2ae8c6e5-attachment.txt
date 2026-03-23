@@ -1,0 +1,2 @@
+undefined
+@smoke Selected checkboxes: 1
