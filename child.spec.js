@@ -13,3 +13,4 @@ const[child] = await Promise.all([
     const m =await child.locator("//h2[contains(@class,'BrowseProductsTitle text-2xl')]").textContent({ timeout: 60000 });
     console.log(m);
 });
+code is working fine and it is taking the screenshot of child page and also printing the text content of h2 tag in child page.
