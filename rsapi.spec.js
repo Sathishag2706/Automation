@@ -43,3 +43,4 @@ test('@rs login',async({page})=>{
 });
 ssssss
         updatd fine
+   check with laptop
