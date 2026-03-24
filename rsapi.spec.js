@@ -41,10 +41,4 @@ test('@rs login',async({page})=>{
  const orderid = await jsondata[0];
  console.log(orderid);
 });
-<<<<<<< HEAD
-ssssss
-        updatd fine
-   check with laptop
-=======
-aaa
->>>>>>> 65a29eb22f23126ed9fb8381d633f432d580408c
+
